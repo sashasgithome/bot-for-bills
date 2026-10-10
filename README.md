@@ -1,4 +1,4 @@
-# Financial Chatbot Prorotype for Customer Banking App
+# Financial Chatbot Prototype for Customer Banking App
 
 ## ABOUT
 

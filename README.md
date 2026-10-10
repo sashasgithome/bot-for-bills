@@ -2,11 +2,11 @@
 
 ## ABOUT
 
-This project is the proof-of-concept for an AI-assistant inside a user's banking app. The core priority is a **transparent**, **safe**, and **easy** **chatting experience**, with the chatbot providing evidence to its answers and being able to see remember conversation context.
+This project is the proof-of-concept for an AI-assistant inside a user's banking app. The core priority is a **transparent**, **safe**, and **easy** **chatting experience**, with the chatbot providing evidence to its answers and being able to remember conversation context.
 
 > Test it right away at the [DEPLOYED APP](https://bot-for-bills.streamlit.app)!
 
-The application implements natural-language-to-SQL translation using Gemini Flash 3.5 Lite, with queries executed deterministically for high accuracy and no hallucination. Memory for chat is also integrated here.
+The application implements natural-language-to-SQL translation using Gemini Flash 3.5 Lite, with queries executed deterministically for high accuracy and no mathematical hallucination. Memory for chat is integrated as well.
 
 
 ## PROTOTYPE
